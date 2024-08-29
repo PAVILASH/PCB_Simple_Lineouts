@@ -1,0 +1,43 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 23.1.0 d001Aug-21-2024 at 14:52:44 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='DAY-BASE-03-SIMPLE';
+ POST_TIME='Jul 18 2024 23:20:50';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ D? 'LED_LED_LED':;
+
+SECTION_NUMBER 1
+ '@DAY-BASE-03-SIMPLE.SCHEMATIC1(SCH_1):INS263@LIBRARY4.LED.NORMAL(CHIPS)':
+ C_PATH='@\day-base-03-simple\.schematic1(sch_1):ins263@library4.\led.normal\(chips)',
+ P_PATH='@\day-base-03-simple\.schematic1(sch_1):page0_ins263@library4.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,510)',
+ SECTION='';
+
+PART_NAME
+ J? 'HEADER-2_CONNECTOR_HEADER-2':;
+
+SECTION_NUMBER 1
+ '@DAY-BASE-03-SIMPLE.SCHEMATIC1(SCH_1):INS222@LIBRARY4.HEADER-2.NORMAL(CHIPS)':
+ C_PATH='@\day-base-03-simple\.schematic1(sch_1):ins222@library4.\header-2.normal\(chips)',
+ P_PATH='@\day-base-03-simple\.schematic1(sch_1):page0_ins222@library4.\header-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,410)',
+ SECTION='';
+
+PART_NAME
+ R? 'RESISTOR_RES_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@DAY-BASE-03-SIMPLE.SCHEMATIC1(SCH_1):INS172@LIBRARY4.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\day-base-03-simple\.schematic1(sch_1):ins172@library4.\resistor.normal\(chips)',
+ P_PATH='@\day-base-03-simple\.schematic1(sch_1):page0_ins172@library4.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,360)',
+ SECTION='';
+
+END.
